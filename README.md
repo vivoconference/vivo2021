@@ -1,8 +1,8 @@
-# VIVO 2020 Conference website
+# VIVO 2021 Conference website
 
 ## About the conference
 
-The 11th annual VIVO Conference will be held on-line June 16-17.  To join the organizing committee, please see [the conference task force page](https://wiki.lyrasis.org/display/VIVO/VIVO+Conference+2020+Task+Force) in the VIVO wiki.
+The 12th annual VIVO Conference will be held on-line on dates to be determined (typically summer).  To join the organizing committee, please see [the conference task force page](https://wiki.lyrasis.org/display/VIVO/VIVO+Conference+2021+Task+Force) in the VIVO wiki.
 
 ## About the site
 
@@ -25,4 +25,4 @@ Use
     
 to start a local copy of the site running at `localhost:4000`
 
-If you have modified `_config.yml` to run locally, be sure to restore the url values in any commit so the site will run remotely.  baseurl should be set to `/vivo2020` and url should be set to `http://vivoconference.org`
+If you have modified `_config.yml` to run locally, be sure to restore the url values in any commit so the site will run remotely.  baseurl should be set to `/vivo2021` and url should be set to `http://vivoconference.org`
