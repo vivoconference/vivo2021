@@ -11,10 +11,10 @@ permalink: pretty
 exclude: ['README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "VIVO Conference 2020"
+title: "VIVO Conference 2021"
 email: "conference@vivoweb.org"
-description: "11th Annual International VIVO Conference"
-baseurl: "/vivo2020"
+description: "12th Annual International VIVO Conference"
+baseurl: "/vivo2021"
 url: "http://vivoconference.org"
 permalink: "/:categories/:title"
 googleMapKey: "AIzaSyDIVOUa4V6zE4W4w0Jm_A6HAnyDaTHgifs"
@@ -25,7 +25,7 @@ googleAnalyticsSiteUrl: "vivoconference.org"
 # Organizer Info
 organizerName: "VIVO"
 organizerAlternateName: "VIVO Project"
-organizerDescription: "VIVO is member-supported, open source software and an ontology for representing scholarship.  VIVO supports recording, editing, searching, browsing, and visualizing scholarly activity. VIVO encourages showcasing the scholarly record, research discovery, expert finding, network analysis, and assessment of research impact.  VIVO is easily extended to support additional domains of scholarly activity."
+organizerDescription: "VIVO is member-supported, open source software and an ontology for representing scholarship. VIVO supports recording, editing, searching, browsing, and visualizing scholarly activity. VIVO encourages showcasing the scholarly record, research discovery, expert finding, network analysis, and assessment of research impact. VIVO is easily extended to support additional domains of scholarly activity."
 organizerEmail: "conference@vivoweb.org"
 organizerLogo: "/img/seo/vivo-logo.jpg"
 organizerLink: "http://vivoweb.org/"
@@ -61,10 +61,10 @@ navigationLinks:
 
 # Hero Block
 heroImage: "network.png"
-heroTitle: "<typeout> VIVO Conference 2020"
-eventDate: " June 16-18 &sdot; On-line "
-typeoutTextValues: '"", "11th Annual ", "International "'
-typeoutFallback: "11th Annual International"
+heroTitle: "<typeout> VIVO Conference 2021"
+eventDate: " June 23-25 &sdot; On-line "
+typeoutTextValues: '"", "12th Annual ", "International "'
+typeoutFallback: "12th Annual International"
 heroButtons:
 # - {permalink: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
 # - {permalink: "/talk-proposals/", text: "Call For Proposals"}
@@ -191,7 +191,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "VIVO 2020 is organized by the people here with help from many others.  We want to thank LYRASIS and all the members of the VIVO Community -- you are the best!"
+aboutUs: "VIVO 2021 is organized by the people here with help from many others.  We want to thank LYRASIS and all the members of the VIVO Community -- you are the best!"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
