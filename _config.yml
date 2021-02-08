@@ -40,7 +40,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Documents
 c4pButton: "Register"
 c4pText: "VIVO conference registration is open, and includes euroCRIS track.<br/>There is no cost to attend"
-c4pUrl: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363"
+c4pUrl: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-97993221363"
 c4sponsorsUrl: "/news/sponsorship"
 
 # Navigation
@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/news/", text: "News"}
 # - {permalink: "/talk-proposals/", text: "Proposals"}
- - {link: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-97993221363", text: "Register"}
  - {permalink: "/schedule/#session-29", text: "euroCRIS"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
 # - {permalink: "/attend/", text: "Attend"}
@@ -66,7 +66,7 @@ eventDate: " June 23-25 &sdot; On-line "
 typeoutTextValues: '"", "12th Annual ", "International "'
 typeoutFallback: "12th Annual International"
 heroButtons:
-# - {permalink: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
+# - {permalink: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-97993221363", text: "Register"}
 # - {permalink: "/talk-proposals/", text: "Call For Proposals"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -75,7 +75,7 @@ aboutTitle: "About VIVO"
 aboutBlock:
  - {title: "Project", image: "conference.jpg", text: "VIVO is member-supported, open source software and an ontology for representing scholarship. VIVO encourages showcasing the scholarly record, research discovery, expert finding, network analysis, and assessment of research impact." }
  - {title: "Community", image: "community.jpg", text: "VIVO is a network of more than 170 institutions in more than 27 countries, implementing VIVO or producing VIVO-compatible data. See the VIVO site registry for a list." }
- - {title: "Conference", image: "workshop.jpg", text: "2020 will be our first on-line conference.  The VIVO conference has been bringing people together since 2010 to share the latest work in semantic web academic profiles. Whether an experienced user, or just starting out, this is the event to attend." }
+ - {title: "Conference", image: "workshop.jpg", text: "2021 will be our second on-line conference.  The VIVO conference has been bringing people together since 2010 to share the latest work in semantic web academic profiles. Whether an experienced user, or just starting out, this is the event to attend." }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
@@ -96,19 +96,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Hilton Podgorica Crna Gora"
-eventLocationLink: "https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/event/index.html"
-eventStreetAddress: "Bulevar Svetog Petra Cetinjskog 2"
-eventAddressLocality: "Podgorica"
+eventLocationName: ""
+eventLocationLink: ""
+eventStreetAddress: ""
+eventAddressLocality: ""
 eventAddressLocalityRegion: ""
-eventPostalCode: "81000"
-eventAddressCountry: "Montenegro"
-eventStartTime: "2020-06-16T09:00"
-eventDoorTime: "08:00"
-eventEndTime: "2020-06-18T20:00"
-eventPlaceCoordinates: "42.439894, 19.263256"
-mapCenterCoordinates: "42.439894, 19.263256"
-mapMobileCenterCoordinates: "42.439894, 19.263256"
+eventPostalCode: ""
+eventAddressCountry: ""
+eventStartTime: ""
+eventDoorTime: ""
+eventEndTime: ""
+eventPlaceCoordinates: ""
+mapCenterCoordinates: ""
+mapMobileCenterCoordinates: ""
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -124,7 +124,7 @@ venueFeatures: ["Set in the heart of Podgorica, the hotel features 727 sq. m. of
 #tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedImage: "Montenegro-durmitor.png"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "vivo2020"
+twitterHashTag: "vivo2021"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -163,7 +163,8 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://vivoweb.org", text: "VIVOWeb.org"}
-#   - {link: "http://openvivo.org", text: "OpenVIVO"}
+   - {link: "http://openvivo.org", text: "OpenVIVO"}
+   - {link: "http://vivoconference.org/vivo2020/", text: "VIVO 2020"}
    - {link: "http://vivoconference.org/vivo2019/", text: "VIVO 2019"}
    - {link: "http://vivoconference.org/vivo2018/", text: "VIVO 2018"}
    - {link: "http://vivoconference.org/vivo2017/", text: "VIVO 2017"}
@@ -172,7 +173,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {permalink: "/team/", text: "VIVO 2020 Team"}
+   - {permalink: "/team/", text: "VIVO 2021 Team"}
    - {link: "mailto:conference@vivoweb.org", text: "conference@vivoweb.org"}
  -
   title: "FAQ"
@@ -184,7 +185,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
-discusShortName: "vivo2020"
+discusShortName: "vivo2021"
 
 # Speakers List Block
 showSessions: true

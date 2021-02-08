@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "VIVO 2020 Call for Proposals is now open!"
-date:   2020-04-20
+title:  "VIVO 2021 Call for Proposals is now open!"
+date:   2021-04-20
 isStaticPost: false
 ---
 
-#### VIVO 2020 Call for Proposals is now open!
-##### Present your work and ideas at VIVO 2020
+#### VIVO 2021 Call for Proposals is now open!
+##### Present your work and ideas at VIVO 2021
 
-Do you help make scholarly data open, found, and consumed? Do you have fresh ideas or new work you want to share with us? We’d love to hear from you! The VIVO conference covers a broad range of topics surrounding research information systems. VIVO 2020 will be an online, virtual conference, which leads to some new formats. We encourage submissions from people who are new to the VIVO community, and formats that work well online.
+Do you help make scholarly data open, found, and consumed? Do you have fresh ideas or new work you want to share with us? We’d love to hear from you! The VIVO conference covers a broad range of topics surrounding research information systems. VIVO 2021 will be an online, virtual conference, which leads to some new formats. We encourage submissions from people who are new to the VIVO community, and formats that work well online.
 
 ##### Possible formats
 
@@ -20,7 +20,7 @@ Your presentation or lightning talk may take the form of a demonstration (screen
 
 ##### Proposal and review process
 
-1. **Before May 15, 2020:** [Share your proposal through OpenReview](https://openreview.net/group?id=vivoconference.org/VIVO/2020/Conference), where it will be publicly visible. The proposal should be submitted as an abstract of 150 - 350 words.
+1. **Before May 15, 2021:** [Share your proposal through OpenReview](https://openreview.net/group?id=vivoconference.org/VIVO/2021/Conference), where it will be publicly visible. The proposal should be submitted as an abstract of 150 - 350 words.
 2. Share the OpenReview link of your proposal on social media and your networks, and invite people to comment and engage.
 3. Keep an eye on the interactions, and reply when meaningful.
 4. **Between the date of submission and May 22:** Assigned reviewers start posting reviews from 15 May until May 31; they will become visible immediately and you can react to them. 
