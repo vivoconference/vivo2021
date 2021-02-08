@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VIVO 2021 Call for Proposals is now open!"
-date:   2021-04-20
+date:   2021-02-22
 isStaticPost: false
 ---
 
