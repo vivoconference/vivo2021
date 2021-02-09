@@ -18,7 +18,7 @@ Sponsors of the 12th Annual VIVO Conference will have the special opportunity to
 * Publishers
 * Funding Agencies
 
-Sponsors of the 11th Annual VIVO Conference will meet attendees with overlapping areas of interest including:
+Sponsors of the 12th Annual VIVO Conference will meet attendees with overlapping areas of interest including:
 
 * Research Networking, Expert Finding, Research Discovery, and Social Network Analysis
 * Semantic Web and Linked Data
