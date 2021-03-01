@@ -50,7 +50,7 @@ navigationLinks:
 # - {permalink: "/talk-proposals/", text: "Proposals"}
  - {link: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-141026615403", text: "Register"}
  - {permalink: "/schedule/#session-29", text: "euroCRIS"}
- - {permalink: "/news/sponsorship", text: "Sponsor"}
+# - {permalink: "/news/sponsorship", text: "Sponsor"}
 # - {permalink: "/attend/", text: "Attend"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
@@ -130,7 +130,7 @@ twitterHashTag: "vivo2021"
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Sponsors"
-partnersC4sponsorsButton: "Become a sponsor"
+# partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 #subscribeImage: "subscribe.jpg"
@@ -169,7 +169,6 @@ footerBlocks:
    - {link: "http://vivoconference.org/vivo2018/", text: "VIVO 2018"}
    - {link: "http://vivoconference.org/vivo2017/", text: "VIVO 2017"}
    - {link: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
-   - {link: "http://vivoconference.org/vivo2015/", text: "VIVO 2015"}
  -
   title: "Contacts"
   links:
