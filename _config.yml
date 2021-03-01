@@ -40,7 +40,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Documents
 c4pButton: "Register"
 c4pText: "VIVO conference registration is open, and includes euroCRIS track.<br/>There is no cost to attend"
-c4pUrl: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-97993221363"
+c4pUrl: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-141026615403"
 c4sponsorsUrl: "/news/sponsorship"
 
 # Navigation
@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/news/", text: "News"}
 # - {permalink: "/talk-proposals/", text: "Proposals"}
- - {link: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-97993221363", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-141026615403", text: "Register"}
  - {permalink: "/schedule/#session-29", text: "euroCRIS"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
 # - {permalink: "/attend/", text: "Attend"}
@@ -66,7 +66,7 @@ eventDate: " June 23-25 &sdot; On-line "
 typeoutTextValues: '"", "12th Annual ", "International "'
 typeoutFallback: "12th Annual International"
 heroButtons:
-# - {permalink: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-97993221363", text: "Register"}
+# - {permalink: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-141026615403", text: "Register"}
 # - {permalink: "/talk-proposals/", text: "Call For Proposals"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -148,7 +148,7 @@ ticketsOffers:
   priceCurrency: ""
   featured: true
   additionalInfo: ""
-  buyButtonLink: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363"
+  buyButtonLink: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-141026615403"
   buyButtonText: "Register Now"
   ticketContentList: ["On-line conference", "", ""]
   disabled: false

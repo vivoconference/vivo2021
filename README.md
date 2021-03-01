@@ -2,7 +2,7 @@
 
 ## About the conference
 
-The 12th annual VIVO Conference will be held on-line on dates to be determined (typically summer).  To join the organizing committee, please see [the conference task force page](https://wiki.lyrasis.org/display/VIVO/VIVO+Conference+2021+Task+Force) in the VIVO wiki.
+The 12th annual VIVO Conference will be held on-line June 23-25, 2021.  To join the organizing committee, please see [the conference task force page](https://wiki.lyrasis.org/display/VIVO/VIVO+Conference+2021+Task+Force) in the VIVO wiki.
 
 ## About the site
 
