@@ -25,7 +25,7 @@ Your presentation or lightning talk may take the form of a demonstration (screen
 1. **Before May 7, 2021:** [Share your proposal through OpenReview](https://openreview.net/group?id=vivoconference.org/VIVO/2021/Conference), where it will be publicly visible. The proposal should be submitted as an abstract of 150 - 350 words.
 2. Share the OpenReview link of your proposal on social media and your networks, and invite people to comment and engage.
 3. Keep an eye on the interactions, and reply when meaningful.
-4. **Between the date of submission and May 19:** Assigned reviewers start posting reviews until April 30; they will become visible immediately and you can react to them.
+4. **Between date of submission and May 19:** Assigned reviewers post reviews; they become visible immediately and you can react to them
 5. **On May 21:** You are notified about acceptance.
 6. **Until May 28** the VIVO Conference task force members decide on the final program. The program will be made available quickly on the conference website.
 
