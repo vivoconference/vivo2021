@@ -31,7 +31,7 @@ Your presentation or lightning talk may take the form of a demonstration (screen
 
 ##### Archiving and DOI
 
-The VIVO conference requires that your work be publically available from a repository of your choice.  Your repository must assign your work a DOI and must make your work open and freely available to all.  We recommend your work be licensed using a Creative Commons license. Repositories that provide that will allow you to satisfy these requirements include figshare and Zenodo.
+The VIVO conference requires that your work be publicly available from a repository of your choice.  Your repository must assign your work a DOI and must make your work open and freely available to all.  We recommend your work be licensed using a Creative Commons license. Repositories that provide that will allow you to satisfy these requirements include figshare and Zenodo.
 
 #### Featured topics
 
