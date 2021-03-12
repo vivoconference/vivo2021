@@ -67,7 +67,7 @@ typeoutTextValues: '"", "12th Annual ", "International "'
 typeoutFallback: "12th Annual International"
 heroButtons:
 # - {permalink: "https://www.eventbrite.com/e/2021-vivo-conference-tickets-141026615403", text: "Register"}
-# - {permalink: "/talk-proposals/", text: "Call For Proposals"}
+ - {permalink: "/talk-proposals/", text: "Call For Proposals"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
