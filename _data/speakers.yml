@@ -4,7 +4,7 @@
   surname: "Waltman"
   company: "Centre for Science and Technology Studies (CWTS) at Leiden University"
   title: "Professor"
-  bio: "He is professor of Quantitative Science Studies and deputy director at the [Centre for Science and Technology Studies](https://www.cwts.nl/) (CWTS) at [Leiden University](https://www.universiteitleiden.nl/en). Ludo leads the Quantitative Science Studies (QSS) research group at CWTS. The QSS group does research in the fields of bibliometrics and scientometrics, with a special emphasis on applications in research management and science policy. Together with his colleague Nees Jan van Eck, Ludo has developed two software tools for the analysis and visualization of bibliometric networks: [VOSviewer](https://www.vosviewer.com) and [CitNetExplorer](https://www.citnetexplorer.nl/). Ludo is coordinator of the [CWTS Leiden Ranking](https://www.leidenranking.com/), a bibliometric ranking of major universities worldwide. In addition, Ludo serves as Editor-in-Chief of [Quantitative Science Studies](https://direct.mit.edu/qss)."
+  bio: "He is professor of Quantitative Science Studies and deputy director at the Centre for Science and Technology Studies (CWTS) at Leiden University. Ludo leads the Quantitative Science Studies (QSS) research group at CWTS. The QSS group does research in the fields of bibliometrics and scientometrics, with a special emphasis on applications in research management and science policy. Together with his colleague Nees Jan van Eck, Ludo has developed two software tools for the analysis and visualization of bibliometric networks: VOSviewer and CitNetExplorer. Ludo is coordinator of the CWTS Leiden Ranking, a bibliometric ranking of major universities worldwide. In addition, Ludo serves as Editor-in-Chief of Quantitative Science Studies."
   thumbnailUrl: 
   ribbon:
     - {abbr: "KEYNOTE", title: "Keynote Speaker"}
@@ -14,7 +14,7 @@
   surname: "Manghi"
   thumbnailUrl: 
   company: "Istituto di Scienza e Tecnologie dell'Informazione (ISTI)"
-  bio: "Paolo Manghi is a (PhD) Researcher in computer science at [Istituto di Scienza e Tecnologie dell'Informazione](https://www.isti.cnr.it/en/) (ISTI) of [Consiglio Nazionale delle Ricerche](https://www.cnr.it/) (CNR), in Pisa, Italy. His research areas of interest are today data e-infrastructures for science and scholarly communication infrastructures, with a focus on technologies supporting open science publishing within and across different disciplines, i.e. computational reproducibility and transparent evaluation of science. He is the CTO of the [OpenAIRE](https://www.openaire.eu/) infrastructure, involved in coordination and research in the H2020 projects OpenAIRE-Connect, OpenAIRE-Advance, OpenAIRE2020."
+  bio: "Paolo Manghi is a (PhD) Researcher in computer science at Istituto di Scienza e Tecnologie dell'Informazione (ISTI) of Consiglio Nazionale delle Ricerche (CNR), in Pisa, Italy. His research areas of interest are today data e-infrastructures for science and scholarly communication infrastructures, with a focus on technologies supporting open science publishing within and across different disciplines, i.e. computational reproducibility and transparent evaluation of science. He is the CTO of the OpenAIRE infrastructure, involved in coordination and research in the H2020 projects OpenAIRE-Connect, OpenAIRE-Advance, OpenAIRE2020."
   title: "CTO, OpenAIRE"
   ribbon:
     - {abbr: "KEYNOTE", title: "Keynote Speaker"}
@@ -24,7 +24,7 @@
   surname: "Robinson"
   company: "Office of Scientific and Technical Information (OSTI)"
   thumbnailUrl: 
-  bio: "Carly Robinson is the [Department of Energy](https://www.energy.gov/) (DOE) [Office of Scientific and Technical Information](https://www.osti.gov) (OSTI) Assistant Director for the Office of Information Products and Services (IPS). IPS leads the OSTI persistent identifier services and manages development of OSTI search tools providing access to DOE-funded R&D results. IPS responsibilities also include metadata quality and curation, communications, management of interagency and international products, and policy development and implementation. She has a Ph.D. and M.S. in Atmospheric Chemistry from the University of Colorado, and a B.S. in Applied Physics from Michigan Technological University."
+  bio: "Carly Robinson is the Department of Energy (DOE) Office of Scientific and Technical Information (OSTI) Assistant Director for the Office of Information Products and Services (IPS). IPS leads the OSTI persistent identifier services and manages development of OSTI search tools providing access to DOE-funded R&D results. IPS responsibilities also include metadata quality and curation, communications, management of interagency and international products, and policy development and implementation. She has a Ph.D. and M.S. in Atmospheric Chemistry from the University of Colorado, and a B.S. in Applied Physics from Michigan Technological University."
   ribbon:
     - {abbr: "KEYNOTE", title: "Keynote Speaker"}
   rockstar: true
