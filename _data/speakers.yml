@@ -4,7 +4,7 @@
   surname: "Waltman"
   company: "Centre for Science and Technology Studies (CWTS) at Leiden University"
   title: "Professor"
-  bio: "He is professor of Quantitative Science Studies and deputy director at the Centre for Science and Technology Studies (CWTS) at Leiden University. Ludo leads the Quantitative Science Studies (QSS) research group at CWTS. The QSS group does research in the fields of bibliometrics and scientometrics, with a special emphasis on applications in research management and science policy. Together with his colleague Nees Jan van Eck, Ludo has developed two software tools for the analysis and visualization of bibliometric networks: VOSviewer and CitNetExplorer. Ludo is coordinator of the CWTS Leiden Ranking, a bibliometric ranking of major universities worldwide. In addition, Ludo serves as Editor-in-Chief of Quantitative Science Studies."
+  bio: "Ludo Waltman is professor of Quantitative Science Studies and deputy director at the Centre for Science and Technology Studies (CWTS) at Leiden University. He is also associate director of the Research on Research Institute. His work focuses on developing new infrastructures, algorithms, and tools to support research assessment, science policy, and scholarly communication. Together with his colleague Nees Jan van Eck, Ludo has developed the well-known VOSviewer software tool for bibliometric visualization. Ludo is coordinator of the CWTS Leiden Ranking, a bibliometric ranking of major universities worldwide. He also coordinates the Initiative for Open Abstracts (I4OA). In addition, Ludo serves as Editor-in-Chief of the journal Quantitative Science Studies."
   thumbnailUrl: ludowaltman.jpg
   ribbon:
     - {abbr: "KEYNOTE", title: "Keynote Speaker"}
@@ -14,7 +14,7 @@
   surname: "Manghi"
   thumbnailUrl: 
   company: "Istituto di Scienza e Tecnologie dell'Informazione (ISTI)"
-  bio: "Paolo Manghi is a (PhD) Researcher in computer science at Istituto di Scienza e Tecnologie dell'Informazione (ISTI) of Consiglio Nazionale delle Ricerche (CNR), in Pisa, Italy. His research areas of interest are today data e-infrastructures for science and scholarly communication infrastructures, with a focus on technologies supporting open science publishing within and across different disciplines, i.e. computational reproducibility and transparent evaluation of science. He is the CTO of the OpenAIRE infrastructure, involved in coordination and research in the H2020 projects OpenAIRE-Connect, OpenAIRE-Advance, OpenAIRE2020."
+  bio: "Paolo Manghi is a (PhD) Researcher in computer science at Istituto di Scienza e Tecnologie dell'Informazione (ISTI) of Consiglio Nazionale delle Ricerche (CNR), in Pisa, Italy. He is the CTO of OpenAIRE AMKE, involved in coordination and/or activities in the H2020 projects EOSC-Future, EOSC-Enhance, OpenAIRE-Nexus, OpenAIRE-Connect, OpenAIRE-Advance, OpenAIRE2020. His research areas of interest are today data e-infrastructures for science and scholarly communication infrastructures, with a focus on technologies supporting open science publishing within and across different disciplines, i.e. computational reproducibility and transparent evaluation of science."
   title: "CTO, OpenAIRE"
   ribbon:
     - {abbr: "KEYNOTE", title: "Keynote Speaker"}
