@@ -22,7 +22,7 @@
 - id : "CarlyRobinson"
   name: "Carly"
   surname: "Robinson"
-  company: "Office of Scientific and Technical Information (OSTI)"
+  company: "US Department of Energy Office of Scientific and Technical Information"
   thumbnailUrl: CarlyRobinson.jpg
   bio: "Carly Robinson is the Department of Energy (DOE) Office of Scientific and Technical Information (OSTI) Assistant Director for the Office of Information Products and Services (IPS). IPS leads the OSTI persistent identifier services and manages development of OSTI search tools providing access to DOE-funded R&D results. IPS responsibilities also include metadata quality and curation, communications, management of interagency and international products, and policy development and implementation. She has a Ph.D. and M.S. in Atmospheric Chemistry from the University of Colorado, and a B.S. in Applied Physics from Michigan Technological University."
   ribbon:
