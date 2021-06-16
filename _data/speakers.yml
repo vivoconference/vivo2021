@@ -214,6 +214,7 @@
 - id: "GuillaumeRivalle"
   name: "Guillame"
   surname: "Rivalle"
+  thumbnailUrl: "GuillaumeRivalle.jpg"
   title: "Customer Success Specialists team manager, Europe."
   company: "Clarivate"
 - id: "TerrieWheeler"

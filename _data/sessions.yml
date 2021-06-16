@@ -398,12 +398,6 @@
   speakers: ["CarlyRobinson"]
   presentation:
 -
-  id: 42
-  title: "Clarivate Lightning Talk"
-  description: ""
-  speakers: ["BenjaminGross"]
-  presentation:
--
   id: 43
   title: "Ontocale Lightning Talk"
   description: ""
