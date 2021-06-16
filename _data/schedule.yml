@@ -1,0 +1,284 @@
+-
+  date: "2020-06-23"
+  dateReadable: "Wednesday June 23"
+  tracks:
+    - {title: "Plenary", color: "#1ee8a5"}
+    - {title: "Track A", color: "#90be4e"}
+    - {title: "Track B", color: "#e91e63"}
+    
+  timeslots:
+    - {
+    	startTime: "15:00",
+    	endTime: "15:10",
+    	sessionIds: [45]
+    }
+    - {
+    	startTime: "15:10",
+    	endTime: "15:16",
+    	sessionIds: [37]
+    }
+    - {
+    	startTime: "15:16",
+    	endTime: "15:20",
+    	sessionIds: [38]
+    }
+    - {
+    	startTime: "15:20",
+    	endTime: "16:05",
+    	sessionIds: [39]
+    }
+    
+    # Break 
+    
+    - {
+    	startTime: "16:05",
+    	endTime: "16:20",
+    	sessionIds: [905]
+    }
+    
+    # First parallel sessions
+
+    - {
+    	startTime: "16:20",
+    	endTime: "16:40",
+    	sessionIds: [8002, 36, 35]
+    }
+    
+    - {
+    	startTime: "16:40",
+    	endTime: "17:00",
+    	sessionIds: [8003, 5, 33]
+    }
+    
+    - {
+    	startTime: "17:00",
+    	endTime: "17:20",
+    	sessionIds: [8004,30, 31]
+    }
+        
+    # Break
+    
+    - {
+    	startTime: "17:20",
+    	endTime: "17:35",
+    	sessionIds: [906]
+    }
+    
+    # Second parallel sessions
+
+    - {
+    	startTime: "17:35",
+    	endTime: "17:55",
+    	sessionIds: [8005, 2, 34]
+    }
+    
+    - {
+    	startTime: "17:55",
+    	endTime: "18:15",
+    	sessionIds: [8006, 28, 23]
+    }
+    
+    - {
+    	startTime: "18:15",
+    	endTime: "18:35",
+    	sessionIds: [8007, 19, 20]
+    }
+    
+    
+# Day 2
+
+-
+  date: "2020-06-24"
+  dateReadable: "Thursday June 24"
+  tracks:
+    - {title: "Plenary", color: "#1ee8a5"}
+    - {title: "Track A", color: "#90be4e"}
+    - {title: "Track B", color: "#e91e63"}
+  
+  timeslots:
+    - {
+    	startTime: "15:00",
+    	endTime: "15:45",
+    	sessionIds: [41]
+    }
+    - {
+    	startTime: "15:45",
+    	endTime: "15:51",
+    	sessionIds: [24]
+    }
+    - {
+    	startTime: "15:51",
+    	endTime: "15:57",
+    	sessionIds: [21]
+    }
+    - {
+    	startTime: "15:57",
+    	endTime: "16:03",
+    	sessionIds: [42]
+    }
+    - {
+    	startTime: "16:03",
+    	endTime: "16:09",
+    	sessionIds: [14]
+    }
+    - {
+    	startTime: "16:09",
+    	endTime: "16:16",
+    	sessionIds: [29]
+    }
+    - {
+    	startTime: "16:16",
+    	endTime: "16:22",
+    	sessionIds: [43]
+    }
+    
+    # Break 
+    
+    - {
+    	startTime: "16:22",
+    	endTime: "16:40",
+    	sessionIds: [907]
+    }
+    
+    # EuroCRIS and parallel
+
+    - {
+    	startTime: "16:40",
+    	endTime: "17:00",
+    	sessionIds: [8008, 18, 9]
+    }
+    
+    - {
+    	startTime: "17:00",
+    	endTime: "17:20",
+    	sessionIds: [8009, 2901, 11]
+    }
+    
+    - {
+    	startTime: "17:20",
+    	endTime: "17:40",
+    	sessionIds: [8010, 2902, 15]
+    }
+    
+    # Break
+    
+    - {
+    	startTime: "17:40",
+    	endTime: "17:55",
+    	sessionIds: [908]
+    }
+
+    # Continue EuroCris and Parallel
+
+    - {
+    	startTime: "17:55",
+    	endTime: "18:15",
+    	sessionIds: [8011, 2903, 13]
+    }
+    
+    - {
+    	startTime: "18:15",
+    	endTime: "18:35",
+    	sessionIds: [8012, 2904, 1]
+    }
+    
+    - {
+    	startTime: "18:35",
+    	endTime: "18:55",
+    	sessionIds: [8013, 2905, 16]
+    }
+    
+# Day 3 
+
+-
+  date: "2020-06-19"
+  dateReadable: "Friday June 19"
+  tracks:
+    - {title: "Plenary", color: "#1ee8a5"}
+    - {title: "Track A", color: "#90be4e"}
+    - {title: "Track B", color: "#e91e63"}
+  timeslots:
+    - {
+    	startTime: "15:00",
+    	endTime: "15:45",
+    	sessionIds: [40]
+    }
+    - {
+    	startTime: "15:45",
+    	endTime: "15:51",
+    	sessionIds: [22]
+    }
+    - {
+    	startTime: "15:51",
+    	endTime: "15:57",
+    	sessionIds: [27]
+    }
+    - {
+    	startTime: "15:57",
+    	endTime: "16:03",
+    	sessionIds: [44]
+    }
+ 
+    # Break 
+    
+    - {
+    	startTime: "16:03",
+    	endTime: "16:20",
+    	sessionIds: [909]
+    }
+    
+    # Parallel 1
+
+    - {
+    	startTime: "16:20",
+    	endTime: "16:40",
+    	sessionIds: [8014, 25, 26]
+    }
+    
+    - {
+    	startTime: "16:40",
+    	endTime: "17:00",
+    	sessionIds: [8015, 6, 4]
+    }
+    
+    - {
+    	startTime: "17:00",
+    	endTime: "17:20",
+    	sessionIds: [8016, 12, 8]
+    }
+    
+    # Break
+    
+    - {
+    	startTime: "17:20",
+    	endTime: "17:40",
+    	sessionIds: [910]
+    }
+
+    # Parallel 2
+
+    - {
+    	startTime: "17:40",
+    	endTime: "18:00",
+    	sessionIds: [8017, 7, 10]
+    }
+    
+    - {
+    	startTime: "18:00",
+    	endTime: "18:20",
+    	sessionIds: [8018, 32, 3]
+    }
+    
+    - {
+    	startTime: "18:20",
+    	endTime: "18:40",
+    	sessionIds: [8019, 8020, 17]
+    }
+    
+    # Graham Triggs Remembrance
+    
+    - {
+    	startTime: "18:40",
+    	endTime: "19:00",
+    	sessionIds: [46]
+    }
