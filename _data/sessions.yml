@@ -184,7 +184,7 @@
   presentation:
 -
   id: 18
-  title: "euroCRIS Track at the 2021 VIVO annual conference: \“VIVO implementations at Latin American institutions: different approaches and configurations, one common objective\”"
+  title: "euroCRIS Track at the 2021 VIVO annual conference: 'VIVO implementations at Latin American institutions: different approaches and configurations, one common objective'"
   description: "The euroCRIS Directory of Research Information Systems (DRIS) currently displays a good number of VIVO implementations in many different countries. In previous euroCRIS Tracks at VIVO annual conferences the quick rate of growth for VIVO implementations in Latin America was specifically highlighted, together with the quality of some of these VIVO instances. This was also pointed out during a recent Latin American panel discussion on the emergence of research information management systems in the region. The strong reliance of some of these developments on open source software solutions could also significantly enhance the opportunities for cross-institutional and international collaboration. After having highlighted a number of CRIS-related VIVO implementations in Europe during previous euroCRIS Tracks at the 2019 and 2020 VIVO annual conferences, this year we would like to focus on a couple of these VIVO implementations in Latin America. 
       
       These case studies will be complemented with an introductory presentation on the growing presence of Latin American CRIS systems in the euroCRIS Directory of Research Information Systems (DRIS) and with a brief interview with the lead for the recently formed Spanish-language VIVO User Group.
@@ -387,8 +387,8 @@
     via APIs and data dumps in Zenodo.org. The data
     includes provenance of all its information (collected metadata and inferred via
     machinery), it is complete (includes all major and minor data sources
-    worldwide, up to 99K including journals), and it is deduplicated (\"records
-    describing the same object are merged onto one representative object\”)."
+    worldwide, up to 99K including journals), and it is deduplicated ('records
+    describing the same object are merged onto one representative object')."
   speakers: ["PaoloManghi"]
   presentation:
 -
