@@ -191,8 +191,8 @@
 # Day 3 
 
 -
-  date: "2020-06-19"
-  dateReadable: "Friday June 19"
+  date: "2020-06-25"
+  dateReadable: "Friday June 25"
   tracks:
     - {title: "Plenary", color: "#1ee8a5"}
     - {title: "Track A", color: "#90be4e"}
