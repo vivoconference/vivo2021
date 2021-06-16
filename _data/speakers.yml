@@ -1,5 +1,5 @@
 -
-  id: "ludowaltman"
+  id: "LudoWaltman"
   name: "Ludo"
   surname: "Waltman"
   company: "Centre for Science and Technology Studies (CWTS) at Leiden University"
@@ -82,6 +82,7 @@
   name: "Ralph"
   surname: "O'Flinn"
   company: "The University of Alabama at Birmingham"
+  thumbnailUrl: "RalphOflinn.jpg"
 - id: "MikeConlon"
   name: "Mike"
   surname: "Conlon"
@@ -302,6 +303,12 @@
   surname: "Nathan"
   title: "Managing Partner"
   company: "Derwen AI"
+- id: "DamarisMurry"
+  name: "Damaris"
+  surname: "Murry"
+  title: "Director for Faculty Data Systems and Analysis"
+  company: "Duke University"
+  thumbnailUrl: "DamarisMurry.jpg"
 
   
 

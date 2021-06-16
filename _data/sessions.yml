@@ -19,7 +19,7 @@
       This project assumes creation of compilations from excerpts as new views on subjects. To facilitate creation of new compilations search functionality has been enriched with an enhanced logical search form that allows the use of predefined SPARQL queries results in search queries. These enhancements in combination with VIVO's wide capabilities for displaying search results, made it possible to compose virtual compilations from search results and save them by authenticated users.
       In order to split articles created in ordinary text editors into excerpts and load into VIVO, we created a converter from LibreOffice Writer documents to RDF format that uses “texts structures” ontology. 
       To annotate excerpts of philosophical texts, the development of  philosophical relations ontology was started. This ontology, together with philosophical rubricator, is used to assign rubrics to excerpts. Work is underway to extend this ontology with new relations that should fully reflect real relationships between philosophical texts like the logical, paradigmatic, mereological etc."
-  speakers: ["GeorgyLitvinov"]
+  speakers: ["GregoryLitvinov"]
   presentation: 
 -
   id: 3
@@ -153,7 +153,7 @@
   id: 14
   title: "Testing PIDza coverage for VIVO at Osnabrück University "
   description: "TAPIR is a third-party funded project conducted by TIB – Leibniz Information Centre for Science and Technology Hanover (technical lead) and Osnabrück University (use case) and deals with the research question how reporting in academic institutions can be (partially) automated using open, public research information with persistent identifiers (PID) like ORCID, ROR or DOI. The project focuses on connecting and integrating data from external sources (open data with public license and PID) to internal VIVO systems – e.g. to expand researcher profiles by using external information already published and confirmed by themselves on the ORCID website. Initially, the project team evaluated the number of ORCID registrations over time (last 3 years) at Osnabrück University and then analyzed the ORCID coverage for university researchers and evaluated differences between research areas to identify gaps. The data quality of external data sources (extracted from datacite commons using ROR as the institutional identifier for university affiliation) was compared with an internal data repository (ORCID person lists). Can external data sources e.g. ORCID be used to extend VIVO/CRIS content without making additional effort for researchers?"
-  speakers: ["Kathrin Schnieders", "Sonja Schulze", "Dominik Feldschnieders"]
+  speakers: ["KathrinSchnieders", "SonjaSchulze", "DominikFeldschnieders"]
   presentation:
 -
   id: 15
@@ -242,13 +242,13 @@
   id: 23
   title: "An Organization Ontology for VIVO based on ROR "
   description: "Representation of organizations is a fundamental component of representation of scholarship -- research outputs are produced by people associated with organizations, people have credentials issued by organizations.  VIVO currently represents organizations using a collection of classes and properties which are in need of revision and improvement.  An ontology using Basic Formal Ontology (BFO) as an upper ontology, and conformant with Open Biomedical Ontology (OBO) development principles is needed to standardize the representation of organizational data in VIVO.  ROR (Research Organization Registry) is an open, CC0, curated collection of information regarding research organizations in the world.  ROR issues a ROR Identifier for each organization.  ROR data is easily represented using the Organization Ontology (ORG) being developed for VIVO.  This presentation will include discussion of current VIVO representations, previous work to represent organizations in the OpenVIVO project, Wikidata, the W3C ORG ontology, organization representation in OBO ontologies, and data coming from ROR."
-  speakers: ["MichaelConlon"]
+  speakers: ["MikeConlon"]
   presentation:
 -
   id: 24
   title: "ReadTheDocs for VIVO ontologies "
   description: "ReadTheDocs (RTD) is a system of creating documentation that is common in the python community.  RTD uses RestructuredText as a mark-up language and Sphinx as a processor.  Each component is open source, readily available, and well-documented.  In creating the Organization Ontology, a small python script was created to generate pages for each term in the ontology, as well as tables of terms for inclusion in hand-written pages.  Hand-written pages contain overviews, figures, and tables.  This hybrid approach has several advantages over the current VIVO documentation method: 1) All documentation text is version-controlled in GitHub; 2) A simple mark-up language (ReStructuredText) makes writing good-looking documentation straightforward; 3) Documentation is searchable and indexed; 4) Documentation always agrees with the ontology; 5) style is completely separated from content.  In this talk, we will describe the general setup of an RTD environment, the python script used to create pages, and the resulting documentation for an ontology.  The python script is distributed with the Organization Ontology."
-  speakers: ["MichaelConlon"]
+  speakers: ["MikeConlon"]
   presentation:
 -
   id: 25
@@ -306,7 +306,7 @@
       a variety of formats.  vivo-etl (https://github.com/mconlon17/vivo-etl) is a simple open source command-line pipeline using 
       available open source tools for extracting data from a source, transforming it to VIVO triples, and loading the triples to a 
       VIVO TDB data store.  The method extracts data from an API using wget, transforms CSV or JSON data to \"raw\" RDF and then transforms the \"raw\" RDF to VIVO RDF using a SPARQL CONSTRUCT query executed from the command line using robot, an open source tool (http://robot.obolibrary.org/). VIVO triples can then be loaded using tdbloader.  The method can be used to transform data from any source (CERFIF, PubMed, Dimensions, local repositories) to the current VIVO ontologies, or to ontologies under development by the VIVO Ontology Interest Group.  A demonstration gathering data from ROR (Research Organization Registry) and providing the data as VIVO triples is included in the presentation."
-  speakers: ["MichaelConlon"]
+  speakers: ["MikeConlon"]
   presentation: 
 -
   id: 32
@@ -330,7 +330,7 @@
   description: " The actors and objects of research and their research activities often cannot be described without their associated locality. Geospatial information (GI) is therefore an essential component of research information, for example in the form of the address of a university, a conference venue, the coordinates of an excavation site or a measuring station, or the area of a forest observed via satellite. To make research information useful, it must be interoperable. Therefore, it makes sense to work with standardised data sets of GI.
       
       In this presentation we outline some known use cases of GI in VIVO. Then we will highlight some critical questions that need to be answered before a widely-used GI dataset can even be created. This includes the challenge of finding a supranational response to the classification of disputed areas, but also issues of openness (licensing), data quality and timelines, and usability of data collection. The presented thoughts will show the path to the creation of an open GI dataset to improve discovery of research information."
-  speakers: ["MichaelConlon", "ChristianHauschke", "VioletaIlik", "AnnaKasprzik", "BrianJLowe", "DanielNüst", "PhilipStrömert", "MelanieWacker", "TatianaWalther"]
+  speakers: ["MikeConlon", "ChristianHauschke", "VioletaIlik", "AnnaKasprzik", "BrianJLowe", "DanielNüst", "PhilipStrömert", "MelanieWacker", "TatianaWalther"]
   presentation:
 -
   id: 35
@@ -366,7 +366,7 @@
       Graham made many important contributions to VIVO.
       
       We will remember Graham, sharing stories of his time with us."
-  speakers: ["MichaelConlon"]
+  speakers: ["MikeConlon"]
   presentation:
 -
   id: 39
