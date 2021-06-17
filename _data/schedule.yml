@@ -114,77 +114,72 @@
     - {
     	startTime: "15:57",
     	endTime: "16:03",
-    	sessionIds: [27]
+    	sessionIds: [14]
     }
     - {
     	startTime: "16:03",
     	endTime: "16:09",
-    	sessionIds: [14]
-    }
-    - {
-    	startTime: "16:09",
-    	endTime: "16:16",
     	sessionIds: [29]
     }
     - {
-    	startTime: "16:16",
-    	endTime: "16:22",
+    	startTime: "16:09",
+    	endTime: "16:15",
     	sessionIds: [43]
     }
     
     # Break 
     
     - {
-    	startTime: "16:22",
-    	endTime: "16:40",
+    	startTime: "16:15",
+    	endTime: "16:30",
     	sessionIds: [907]
     }
     
     # EuroCRIS and parallel
 
     - {
-    	startTime: "16:40",
-    	endTime: "17:00",
+    	startTime: "16:30",
+    	endTime: "16:50",
     	sessionIds: [8008, 18, 9]
     }
     
     - {
-    	startTime: "17:00",
-    	endTime: "17:20",
+    	startTime: "16:50",
+    	endTime: "17:10",
     	sessionIds: [8009, 2901, 11]
     }
     
     - {
-    	startTime: "17:20",
-    	endTime: "17:40",
+    	startTime: "17:10",
+    	endTime: "17:30",
     	sessionIds: [8010, 2902, 15]
     }
     
     # Break
     
     - {
-    	startTime: "17:40",
-    	endTime: "17:55",
+    	startTime: "17:30",
+    	endTime: "17:45",
     	sessionIds: [908]
     }
 
     # Continue EuroCris and Parallel
 
     - {
-    	startTime: "17:55",
-    	endTime: "18:15",
+    	startTime: "17:45",
+    	endTime: "18:05",
     	sessionIds: [8011, 2903, 13]
     }
     
     - {
-    	startTime: "18:15",
-    	endTime: "18:35",
+    	startTime: "18:05",
+    	endTime: "18:25",
     	sessionIds: [8012, 2904, 1]
     }
     
     - {
-    	startTime: "18:35",
-    	endTime: "18:55",
+    	startTime: "18:25",
+    	endTime: "18:45",
     	sessionIds: [8013, 2905, 16]
     }
     
