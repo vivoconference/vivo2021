@@ -137,6 +137,7 @@
   name: "Brian"
   surname: "Lowe"
   company: "Ontocale"
+  thumbnailUrl: BrianJLowe.jpg
 - id: "ChristophGöpfert"
   name: "Christoph"
   surname: "Göpfert"
