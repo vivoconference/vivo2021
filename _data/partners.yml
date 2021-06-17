@@ -7,6 +7,7 @@
   elements:
 #    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
      - {name: "SIGMA", description: "SIGMA", link: "https://www.sigmaaie.org/en", imageUrl: "sigma.png"}
+     - {name: "Ontocale", description: "Ontocale", link: "https://www.ontolocale.com", imageUrl: "ontocale.png"}
      - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "Clarivate_Logo_TM_CMYK_Color.jpg"}
 #    - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
 #    - {name: "Intelligent Medical Objects", description: "Intelligent Medical Objects", link: "https://www.e-imo.com", imageUrl: "IMO-Logo.png"}
