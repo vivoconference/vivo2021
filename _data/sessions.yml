@@ -25,7 +25,7 @@
   id: 3
   title: "Towards FAIR research information - insights from expert workshops"
   description: "The FAIR principles provide guidance for improving Findability, Accessibility, Interoperability and Reusability of digital resources. There is a distinct need to explore whether original FAIR principles can be applied to research information and what is needed to make research information FAIR. In the Ukrainian-German cooperation project FAIRIO (\"FAIR research Information in Open infrastructures\") we conducted a series of online workshops with experts on research information and FAIR Guiding Principles we discussed each of the FAIR principles on their viability for scholarly metadata. In this presentation we will outline the main discussion points for each of the principles.  We will highlight findings that are relevant for FAIR research information from an institutional perspective, like usage of open licenses, open standards, and persistent identifiers (PID). We will show high-level criteria on how to foster FAIR research information from the perspective of multiple stakeholders (funders, research institutions etc.), with a special focus on research information systems. Designed criteria are supposed  to enable transparency, reproducibility and enhance propensity for reusability of research information.  We hope that our report will provide perspective on the way towards comprehensive FAIR principles for research information in open infrastructures."
-  speakers: ["Nataliia Kaliuzhna","FranziskaAltemeier","SerhiiNazarovets","Christian Hauschke"]
+  speakers: ["Nataliia Kaliuzhna","FranziskaAltemeier","SerhiiNazarovets","ChristianHauschke"]
   presentation:
 -
   id: 4
