@@ -19,7 +19,7 @@
       This project assumes creation of compilations from excerpts as new views on subjects. To facilitate creation of new compilations search functionality has been enriched with an enhanced logical search form that allows the use of predefined SPARQL queries results in search queries. These enhancements in combination with VIVO's wide capabilities for displaying search results, made it possible to compose virtual compilations from search results and save them by authenticated users.
       In order to split articles created in ordinary text editors into excerpts and load into VIVO, we created a converter from LibreOffice Writer documents to RDF format that uses “texts structures” ontology. 
       To annotate excerpts of philosophical texts, the development of  philosophical relations ontology was started. This ontology, together with philosophical rubricator, is used to assign rubrics to excerpts. Work is underway to extend this ontology with new relations that should fully reflect real relationships between philosophical texts like the logical, paradigmatic, mereological etc."
-  speakers: ["GregoryLitvinov"]
+  speakers: ["GeorgyLitvinov"]
   presentation: 
 -
   id: 3
