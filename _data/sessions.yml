@@ -268,7 +268,7 @@
   id: 27
   title: "Deliver clean researcher profiles for VIVO with minimal administrative burden "
   description: " Author name variants can be a major challenge when using publication data to create researcher profiles. It occurs when several authors share the same name, but also when one author changes their name or expresses them in different ways. Not being able to manage an accurate researcher profile, in which administrators can verify merge all their true author name variations, creates difficulty in correctly associating published research work with the person who authored it and results in inaccuracies in credit attribution, expert identification and bibliometric analysis. Discover how Clarivate resolves author name complexity through their Author Match Service – which may be used to create and manage researcher profiles within VIVO."
-  speakers: ["GuillaumeRivalle"]
+  speakers: ["AnjaEdmeades"]
   presentation:
 -
   id: 28
