@@ -216,6 +216,7 @@
   name: "Anja"
   surname: "Edmeades"
   company: "Clarivate"
+  thumbnailUrl: "AnjaEdmeades.jpg"
   title: "Solutions Consultant"
 - id: "GuillaumeRivalle"
   name: "Guillaume"
