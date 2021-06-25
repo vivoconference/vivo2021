@@ -310,9 +310,9 @@
   presentation: 
 -
   id: 32
-  title: "Development Lab: How to setup a VM to develop for VIVO "
-  description: "Development Lab: How to setup a VM to develop for VIVO"
-  speakers: ["RalphOFlinn"]
+  title: "VIVO-Proxy: A Swagger API tool for VIVO Data-Ingestion process "
+  description: "VIVO-Proxy: A Swagger API tool for VIVO Data-Ingestion process"
+  speakers: ["MichelHéon"]
   presentation:
 -
   id: 33
